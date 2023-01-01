@@ -8,7 +8,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 # Funcionalidades
-:rocket: Formulario inteligente com verificacao de CPF, idade e campos em branco utilizando localStorage e o DOM.
+:rocket: 
 
 # Acesso ao Projeto
 https://organo-comp-react.vercel.app/
